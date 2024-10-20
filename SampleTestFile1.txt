@@ -1,4 +1,7 @@
 This is Sample file 1
 
 
+
 Test
+
+This is Comparison lecture
